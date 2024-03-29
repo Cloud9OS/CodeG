@@ -1,0 +1,5 @@
+keyboard
+requests
+pyautogui
+discord
+asyncio
